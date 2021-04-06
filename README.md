@@ -8,8 +8,13 @@ scripts
 •	Uses functions defined in timeSeriesForecastUnhcrStockOrigDestFuns.py
 •	Scoring script in timeSeriesForecastUnhcrStockOrigDestScoreScript.py
 
+outputs
+•	Provides a selection of example outputs
+
 # Methodolodgy/Algorithm/Pseudocode
-timeSeriesForecastUnhcrStockOrigDestScript.py
+Please also refer to methodology.pdf
+
+Model per counry of origin (timeSeriesForecastUnhcrStockOrigDestScript.py)
 (1) Libraries, configuration settings, model parameters
 (1.1) Import necessary libraries
 (1.2) Define all parameters and choose various settings
@@ -50,7 +55,8 @@ Feature processing
 
 
 # Methodolodgy/Algorithm/Pseudocode
-timeSeriesForecastUnhcrStockClusterOrigDestScript.py
+Please also refer to methodology.pdf
+Model per cluster of countries of origin (timeSeriesForecastUnhcrStockClusterOrigDestScript.py)
 (1) Libraries, configuration settings, model parameters
 (1.1) Import necessary libraries
 (1.2) Define all parameters and choose various settings 
