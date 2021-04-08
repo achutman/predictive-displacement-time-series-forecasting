@@ -2,7 +2,14 @@
 """
 Created on Fri Dec 18 15:27:05 2020
 
-@author: A.Manandhar
+@author: Achut Manandhar, Data Scientist, Migration and Displacement Initiative, Save the Children International
+Contact: William Low, Project Lead, Migration and Displacement Initiative, Save the Children International
+
+This work was done in collaboration with University of Virginia
+Contact:
+Michele Claibourn, DIRECTOR OF SOCIAL, NATURAL, ENGINEERING AND DATA SCIENCES, UVA LIBRARY
+David Leblang, PROFESSOR OF POLITICS AND PUBLIC POLICY, DIRECTOR OF THE GLOBAL POLICY CENTER, Frank Batten School of Leadership and Public Policy
+
 """
 import numpy as np
 import matplotlib.pyplot as plt
