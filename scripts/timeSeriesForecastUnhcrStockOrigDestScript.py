@@ -2,6 +2,14 @@
 """
 Created on Fir 02/04/2021
 
+@author: Achut Manandhar, Data Scientist, Migration and Displacement Initiative, Save the Children International
+Contact: William Low, Project Lead, Migration and Displacement Initiative, Save the Children International
+
+This work was done in collaboration with University of Virginia
+Contact:
+Michele Claibourn, DIRECTOR OF SOCIAL, NATURAL, ENGINEERING AND DATA SCIENCES, UVA LIBRARY
+David Leblang, PROFESSOR OF POLITICS AND PUBLIC POLICY, DIRECTOR OF THE GLOBAL POLICY CENTER, Frank Batten School of Leadership and Public Policy
+
 # Model per country of origin
 # Main script to load, prepare, process data and train/test model
 # Learns a regression model to predict the stock of refugees and asylum seekers at a host country from a country of origin
